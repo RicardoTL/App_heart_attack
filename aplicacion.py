@@ -13,7 +13,7 @@ st.set_page_config(
 #sidebar:
 
 with st.sidebar:
-    st.image('imagen_logo.png')
+    st.image('imagen_principal.jpg')
 
     #imputs aplicacion
     age = st.number_input('Edad',1,120)
