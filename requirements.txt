@@ -1,5 +1,5 @@
 cloudpickle==2.0.0
-numpy==1.26.0  # Debe ser compatible con pandas 2.1.4
+numpy==1.26.0
 pandas==2.1.4
 pyjanitor>=0.24.0
 streamlit==1.22.0
