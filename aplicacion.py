@@ -69,7 +69,7 @@ if st.sidebar.button('Calcular'):
             ''',
             unsafe_allow_html=True)
         
-        st.image('corazon_ok.png')
+        #st.image('corazon_ok.png')
     else:
         st.markdown(
             f'''
@@ -77,7 +77,7 @@ if st.sidebar.button('Calcular'):
             ''',
             unsafe_allow_html=True)
         
-        st.image('corazon_ko.png')
+        #st.image('corazon_ko.png')
 
 #no click boton:
 else:
