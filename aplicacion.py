@@ -10,7 +10,7 @@ st.set_page_config(
     layout = 'wide'
     )
 
-#sidebar
+#sidebar:
 
 with st.sidebar:
     st.image('imagen_logo.png')
