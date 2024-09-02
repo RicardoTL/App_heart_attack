@@ -1,6 +1,6 @@
 cloudpickle==2.0.0
-numpy==1.22.4
-pandas>=2.0.0
+numpy==1.24.2  # Versión compatible con pandas y Streamlit
+pandas==2.1.4  # La última versión estable y compatible con numpy
 pyjanitor>=0.24.0
 streamlit==1.22.0
 streamlit_echarts==0.4.0
