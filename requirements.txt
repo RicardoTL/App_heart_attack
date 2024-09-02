@@ -5,4 +5,4 @@ pyjanitor>=0.24.0
 streamlit==1.22.0
 streamlit_echarts==0.4.0
 scikit-learn==1.2.2
-setuptools>=66.0.0
+
