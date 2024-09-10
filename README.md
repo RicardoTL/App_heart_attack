@@ -4,4 +4,11 @@ Este repositorio contiene el desarrollo de una pequeña aplicación incluida en 
 
 https://github.com/RicardoTL/heart_attack_scoring
 
-Gracias por leerme!
+Gracias!
+
+
+Hello!
+
+This repository contains the development of a small application included in the heart_attack_scoring repository, go there please!
+
+Thanks!
